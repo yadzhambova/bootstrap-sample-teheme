@@ -1,0 +1,48 @@
+.content-wrapper {
+    margin-top: 120px;
+}
+
+.welcome-row {
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding: 40px 120px 65px 60px;
+}
+
+.welcome-row h1 {
+    font-size: 63px;
+}
+
+.welcome-row p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+.content-devider1 {
+    margin-top: 30px;
+}
+
+.features {
+    margin-top: 45px;
+}
+
+.feature-label {
+    text-align: center;
+}
+
+.label-description {
+    text-align: center;
+}
+
+.second-btn {
+    margin-left: 30px;
+}
+
+.content-devider2 {
+    margin-top: 40px;
+}
+
+.copyright {
+    margin-top: 35px;
+    margin-bottom: 60px;
+}
